@@ -331,7 +331,7 @@ private final EmployeeDao d = new EmployeeDao();
         //DefaultTableModel tableModel = (DefaultTableModel) tbEmployee.getModel();
         indexrow = tbEmployee.getSelectedRow();
         if(indexrow==-1){
-            JOptionPane.showInputDialog(this,"Vui lòng chọn nhân viên cần XÓA");
+            JOptionPane.showMessageDialog(this,"Vui lòng chọn nhân viên cần XÓA");
             return;
         }
         String ID =(String)tbEmployee.getValueAt(indexrow, 0);
