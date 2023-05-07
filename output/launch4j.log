@@ -1,0 +1,89 @@
+
+
+Version:	3.50
+CmdLine:	F:\JavaappDev\QLNV\output\myApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\JavaappDev\QLNV\output\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Common Files\Oracle\Java
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	C:\Program Files (x86)\Common Files\Oracle\Java;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "F:\JavaappDev\QLNV\output\myApp.exe"
+Args length:	42/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\JavaappDev\QLNV\output\myApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\JavaappDev\QLNV\output\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Common Files\Oracle\Java
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	C:\Program Files (x86)\Common Files\Oracle\Java;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "F:\JavaappDev\QLNV\output\myApp.exe"
+Args length:	42/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\JavaappDev\QLNV\output\myApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\JavaappDev\QLNV\output\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Common Files\Oracle\Java
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	C:\Program Files (x86)\Common Files\Oracle\Java;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "F:\JavaappDev\QLNV\output\myApp.exe"
+Args length:	42/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	F:\JavaappDev\QLNV\output\myApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	F:\JavaappDev\QLNV\output\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = F:\JDK20
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;F:\JDK20\bin
+JRE paths:	F:\JDK20;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;F:\eclipes\bin;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\lib;C:\MinGW\mingw32;C:\Program Files\Git\cmd;F:\Anaconda3;F:\Anaconda3\Scripts;C:\Program Files\Git\usr\bin\;F:\JS\;C:\ProgramData\chocolatey\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\seawo\AppData\Local\Programs\Python\Python311\;C:\Program Files\Java\jre-1.8;C:\Program Files\Java\jdk-20\bin;C:\Program Files (x86)\Common Files\Oracle\Java;C:\Users\seawo\AppData\Local\Microsoft\WindowsApps;C:\Users\seawo\.dotnet\tools;F:\VS code\Microsoft VS Code\bin;C:\Users\seawo\AppData\Local\GitHubDesktop\bin;F:\src\flutter;F:\src\flutter\bin;C:\Users\seawo\AppData\Roaming\npm;F:\Program Files\Java\lib;F:\Program Files\Java;F:\Program Files\Java\bin;F:\IntelliJ IDEA\IntelliJ IDEA Community Edition 2023.1\bin;;;F:\JDK20\bin
+Check launcher:	F:\JDK20\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	F:\JDK20\bin\javaw.exe
+Launcher args:	-jar "F:\JavaappDev\QLNV\output\myApp.exe"
+Args length:	42/32768 chars
+Exit code:	0

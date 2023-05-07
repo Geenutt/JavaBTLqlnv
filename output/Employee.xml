@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ls>
+    <employee>
+        <ID>01</ID>
+        <Name>TRAN VAN A</Name>
+        <Age>30</Age>
+        <Email>tranVanA@gmail.com</Email>
+        <Position>Nhan Vien</Position>
+        <Salary>3000.0</Salary>
+    </employee>
+    <employee>
+        <ID>02</ID>
+        <Name>TRAN VAN B</Name>
+        <Age>31</Age>
+        <Email>tranVanB@gmail.com</Email>
+        <Position>Nhan Vien</Position>
+        <Salary>4000.0</Salary>
+    </employee>
+    <employee>
+        <ID>03</ID>
+        <Name>TRAN VAN C</Name>
+        <Age>34</Age>
+        <Email>tranVanC@gmail.com</Email>
+        <Position>Nhan Vien</Position>
+        <Salary>5000.0</Salary>
+    </employee>
+    <employee>
+        <ID>04</ID>
+        <Name>TRAN VAN D</Name>
+        <Age>35</Age>
+        <Email>tranVanA@gmail.com</Email>
+        <Position>Nhan Vien Ho Tro</Position>
+        <Salary>6000.0</Salary>
+    </employee>
+    <employee>
+        <ID>05</ID>
+        <Name>TRAN VAN E</Name>
+        <Age>36</Age>
+        <Email>tranVanE@gmail.com</Email>
+        <Position>Truong Phong</Position>
+        <Salary>7000.0</Salary>
+    </employee>
+</ls>
